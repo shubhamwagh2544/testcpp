@@ -1,1 +1,12 @@
-TestCPP.xcodeproj/
+# Build outputs
+out/
+*.out
+*.o
+*.exe
+build/
+bin/
+
+# macOS
+.DS_Store
+.idea/
+.vscode/
