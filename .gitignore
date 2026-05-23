@@ -1,3 +1,10 @@
+build/
+bin/
+.vscode/
+*.o
+*.log
+# macOS
+.DS_Store
 # Build outputs
 out/
 *.out
